@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aniruddha (venoumsk) 👋
-### Software Engineer · Application Development (Mobile & Web) & Python Automation
+### Software Developer · Application Development (Mobile & Web) & Python Automation
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-venoumsk.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venoumsk.github.io/portfolio/)
 [![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Work-10b981?style=for-the-badge)](mailto:disaleaniruddha@gmail.com)
@@ -20,7 +20,7 @@ I specialize in **full-scale application development** and **production data aut
 
 - 📱 **Mobile & Full-Stack Applications:** Native Android (Java) and cross-platform apps with offline-first Firebase Firestore synchronization and third-party API integrations (see **FarmTech Guru**).
 - 📄 **Client-Side Document Software:** High-performance in-browser PDF & Word document editors using React, Vite, and vector canvas engines with zero server uploads (see **PaperForge**).
-- 🤖 **Python Automation & ETL:** High-speed data ingestion, schema repair, anomaly detection, and automated executive Excel reporting with Pandas & OpenPyXL.
+- 🤖 **Python Automation & Big Data ETL:** High-throughput streaming data pipelines, schema repair, and memory-efficient chunking capable of filtering 2.8+ Million records (bypassing Excel's 1.04M row ceiling) with zero data loss using Pandas & OpenPyXL.
 - 💳 **Web Utilities & Financial Tools:** Free, zero-backend GST invoice generators with automated tax computation and instant vector PDF export (see **D-Invoice**).
 
 ---
@@ -31,7 +31,7 @@ I specialize in **full-scale application development** and **production data aut
 | :--- | :--- | :--- | :--- |
 | **[FarmTech Guru](https://github.com/venoumsk/FarmTech_Guru)** | Smart agricultural decision-support mobile app. Real-time weather forecasting, crop stage diagnostics, fertilizer dosage calculators, and produce inventory tracking. | `Android` `Java` `Firebase Firestore` `Weather API` | [Repo →](https://github.com/venoumsk/FarmTech_Guru) |
 | **[PaperForge](https://github.com/venoumsk/paperforge)** | 100% in-browser PDF and Word (.docx) document studio. Annotate, draw, insert shapes, edit text, and export with zero server latency or privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/venoumsk/paperforge) |
-| **[Data Automation Demo](https://github.com/venoumsk/data-automation-demo)** | Production Python ETL pipeline: ingests raw, corrupted invoice CSVs, repairs date/ID anomalies, and outputs an executive Excel workbook with KPI summaries. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
+| **[Data Automation Demo](https://github.com/venoumsk/data-automation-demo)** | High-throughput Python ETL pipeline: ingests massive dump files, repairs date/ID anomalies, and processes 2.8+ Million records with memory-efficient chunking and executive reporting. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
 | **[D-Invoice](https://github.com/venoumsk/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
 
 ---
@@ -79,4 +79,4 @@ I specialize in **full-scale application development** and **production data aut
 
 - **Live Portfolio:** [venoumsk.github.io/portfolio](https://venoumsk.github.io/portfolio/)
 - **Direct Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
-- **Platforms:** Open for verified freelance contracts on Upwork & Fiverr.
+- **Direct Contracts:** Open for direct B2B data automation and application development contracts.
