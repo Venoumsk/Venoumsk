@@ -2,8 +2,8 @@
 
 # Aniruddha Disale
 
-### Spatial Data Analyst Apprentice @ HERE Technologies
-**Software Developer · Spatial Data Systems, Computer Vision & High-Throughput Automation**
+### Software Developer · Spatial Data Systems & Computer Vision
+**High-Throughput Data Pipelines, Computer Vision & Full-Stack Systems**
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-venoumsk.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venoumsk.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
@@ -11,7 +11,7 @@
 [![Degree](https://img.shields.io/badge/B.Sc.%20IT%20'25-CGPA%208.57%20%7C%20SGPA%209.70-10b981?style=for-the-badge)](https://venoumsk.github.io/portfolio/)
 
 <p align="center">
-  <em>Apprentice Trainee in Spatial Data Analysis at HERE Technologies. Engineering high-throughput data processing tools, computer vision perception models, and full-stack software.</em>
+  <em>Software Developer specializing in high-throughput data processing tools, spatial systems, computer vision perception models, and full-stack software.</em>
 </p>
 
 ---
@@ -20,9 +20,9 @@
 
 ## 📌 Professional Overview & Core Focus
 
-I am a Software Developer and Spatial Data Analyst Apprentice at **HERE Technologies**, holding a Bachelor of Science in Information Technology from Changu Kana Thakur ACS College (University of Mumbai) with a cumulative CGPA of 8.57 and a final year SGPA of 9.70.
+I am a Software Developer specializing in Spatial Data Systems and Automation, holding a Bachelor of Science in Information Technology from Changu Kana Thakur ACS College (University of Mumbai) with a cumulative CGPA of 8.57 and a final year SGPA of 9.70.
 
-- **Spatial Data Verification & Map QA:** Validating spatial features, road network topologies, lane geometry, and Point of Interest (POI) lifecycles across multi-region digital map partitions at HERE Technologies.
+- **Spatial Data Verification & Map QA:** Validating spatial features, road network topologies, lane geometry, and Point of Interest (POI) lifecycles across multi-region digital map partitions.
 - **High-Throughput Data Engineering & ETL:** Building streaming data processing tools with Polars (Rust/C Arrow engine), Pandas chunking, and NVIDIA GPU acceleration (CuPy / CUDA) to process and reconcile multi-million record datasets with zero memory leaks.
 - **Computer Vision & Deep Learning:** Architecting multi-model neural vision suites (YOLO11, YOLOv8, PyTorch, OpenCV) for autonomous driving perception (lanes, construction hazard scoring, traffic signals) and marine species classification.
 - **Client-Side Web & Mobile Architecture:** Developing private, zero-server-upload vector document manipulation studios (React, TypeScript, Canvas API, pdf-lib) and native/cross-platform mobile apps (Android Studio, Flutter).
