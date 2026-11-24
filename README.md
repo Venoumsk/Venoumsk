@@ -1,38 +1,46 @@
 <div align="center">
 
-# Hi, I'm Aniruddha (venoumsk) 👋
-### Software Developer · Application Development (Mobile & Web) & Python Automation
+# Aniruddha Disale
+
+### Spatial Data Analyst Apprentice @ HERE Technologies
+**Software Developer · Computer Vision, High-Throughput Data Systems & Full-Stack Development**
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-venoumsk.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venoumsk.github.io/portfolio/)
-[![Status: Available](https://img.shields.io/badge/Status-Available%20for%20Work-10b981?style=for-the-badge)](mailto:disaleaniruddha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-disaleaniruddha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:disaleaniruddha@gmail.com)
+[![Degree](https://img.shields.io/badge/B.Sc.%20IT%20'25-CGPA%208.57%20%7C%20SGPA%209.70-10b981?style=for-the-badge)](https://venoumsk.github.io/portfolio/)
 
 <p align="center">
-  <em>"I build robust mobile applications, client-side web tools, and high-speed Python automation pipelines."</em>
+  <em>Apprentice Trainee in Spatial Data Analysis at HERE Technologies. Building production data engines, computer vision perception models, and responsive web applications.</em>
 </p>
 
 ---
 
 </div>
 
-## 📌 Technical Focus & Capabilities
+## 📌 About & Professional Focus
 
-I specialize in **full-scale application development** and **production data automation**:
+I am a Software Developer and Spatial Data Analyst Apprentice at **HERE Technologies**, holding a Bachelor of Science in Information Technology from Changu Kana Thakur ACS College (University of Mumbai) with a cumulative CGPA of 8.57 and a final year SGPA of 9.70.
 
-- 📱 **Mobile & Full-Stack Applications:** Native Android (Java) and cross-platform apps with offline-first Firebase Firestore synchronization and third-party API integrations (see **FarmTech Guru**).
-- 📄 **Client-Side Document Software:** High-performance in-browser PDF & Word document editors using React, Vite, and vector canvas engines with zero server uploads (see **PaperForge**).
-- 🤖 **Python Automation & Big Data ETL:** High-throughput streaming data pipelines, schema repair, and memory-efficient chunking capable of filtering 2.8+ Million records (bypassing Excel's 1.04M row ceiling) with zero data loss using Pandas & OpenPyXL.
-- 💳 **Web Utilities & Financial Tools:** Free, zero-backend GST invoice generators with automated tax computation and instant vector PDF export (see **D-Invoice**).
+- **Geospatial & Spatial Data Operations:** Performing spatial attribute verification, network topology validation, and quality assurance across global digital map database partitions at HERE Technologies.
+- **High-Throughput Data Processing:** Architecting memory-safe Python pipelines utilizing Polars (Rust/C Arrow engine) and Pandas chunking to process and mathematically reconcile datasets with millions of records without memory bottlenecks.
+- **Computer Vision & Deep Learning:** Developing multi-model neural vision suites (YOLO11, YOLOv8, PyTorch, OpenCV) for real-time autonomous driving perception and marine species classification.
+- **Client-Side Web & Mobile Engineering:** Building zero-server-upload vector document manipulation tools (React, TypeScript, Canvas API, pdf-lib) and mobile applications (Android Studio, Flutter).
 
 ---
 
-## 🚀 Featured Verified Repositories
+## 🚀 Key Projects & Systems
 
-| Project | Description | Core Stack | Live / Code |
+| Project | Description | Core Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| **[FarmTech Guru](https://github.com/venoumsk/FarmTech_Guru)** | Smart agricultural decision-support mobile app. Real-time weather forecasting, crop stage diagnostics, fertilizer dosage calculators, and produce inventory tracking. | `Android` `Java` `Firebase Firestore` `Weather API` | [Repo →](https://github.com/venoumsk/FarmTech_Guru) |
-| **[PaperForge](https://github.com/venoumsk/paperforge)** | 100% in-browser PDF and Word (.docx) document studio. Annotate, draw, insert shapes, edit text, and export with zero server latency or privacy risk. | `React` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/venoumsk/paperforge) |
-| **[Data Automation Demo](https://github.com/venoumsk/data-automation-demo)** | High-throughput Python ETL pipeline: ingests massive dump files, repairs date/ID anomalies, and processes 2.8+ Million records with memory-efficient chunking and executive reporting. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
-| **[D-Invoice](https://github.com/venoumsk/D-invoice)** | GST-ready invoice generator for small businesses. Features multi-item automatic tax computation and instant printable PDF export without backend requirements. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
+| **CadenceX** | High-performance reporting suite automating spatial cadence operations across 8 global map databases. Ingests, normalizes, and reconciles 1,053,805 records in ~74 seconds with peak memory under 2.8 GB. Enforces mathematical row parity and generates 9-sheet executive audit workbooks. | `Python` `Polars` `CustomTkinter` `XlsxWriter` | [Code / Docs →](https://github.com/venoumsk) |
+| **[YOLO11 Autonomous Perception](https://github.com/venoumsk)** | Offline deep learning computer vision suite deploying 3 neural models: (1) Road Lanes & Paint Markings, (2) Construction Zone Hazard Scoring, and (3) Active Traffic Signals locator. Trained on 1,000+ labeled frames with PyTorch and OpenCV. | `PyTorch` `YOLO11` `OpenCV` `Python` | [Repo →](https://github.com/venoumsk) |
+| **[DataFlow Pipeline](https://github.com/venoumsk/data-automation-demo)** | High-throughput Python ETL pipeline ingesting complex dump files, standardizing broken schemas, and repairing date/ID anomalies. Processed over 2.8+ Million records with memory-efficient chunking—surpassing Excel's 1.04M row ceiling—with zero data loss. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
+| **[PaperForge](https://github.com/venoumsk/paperforge)** | 100% in-browser document editor built with React, TypeScript, and Canvas API with zero server uploads. Features vector text annotations, geometric shapes, page deletion, reordering, rotation, and sub-150ms client PDF compilation. | `React` `TypeScript` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/venoumsk/paperforge) |
+| **[CelerPay](https://github.com/venoumsk/celerpay)** | PhonePe-inspired UPI payment application built with Flutter and Provider for state management. Features modular clean architecture, balance updates, transaction history, and QR/profile flows. | `Flutter` `Dart` `Provider` | [Repo →](https://github.com/venoumsk/celerpay) |
+| **[FarmTech Guru](https://github.com/venoumsk/FarmTech_Guru)** | Android-based farmer assistant application. Integrated real-time weather forecasting, crop diagnostics, fertilizer dosage calculation, and role-based access using Firebase with offline-first local cache synchronization. | `Android Studio` `Java` `Firebase Firestore` | [Repo →](https://github.com/venoumsk/FarmTech_Guru) |
+| **Marine Life Detection** | Functional object detection model utilizing YOLOv8 and PyTorch for detecting and classifying marine species. Automated dataset preparation via Kaggle API, achieving detection accuracy of up to 94% on key classes. | `YOLOv8` `PyTorch` `OpenCV` `Kaggle API` | [Repo →](https://github.com/venoumsk) |
+| **[D-Invoice](https://github.com/venoumsk/D-invoice)** | Client-side GST invoice generator for small businesses. Features multi-item automatic tax calculation, subtotaling, and instant printable PDF export with zero server dependencies. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
 
 ---
 
@@ -41,42 +49,63 @@ I specialize in **full-scale application development** and **production data aut
 <div align="center">
 
 ### Languages & Runtimes
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks, Mobile & Cloud
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+### Data Engineering, Spatial & Computer Vision
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS%20%26%20Spatial%20Data-2E7D32?style=for-the-badge&logoColor=white)
+
+### Web & Mobile Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Workflow & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Developer Metrics & Activity
+## 🎓 Education & Credentials
+
+- **Bachelor of Science in Information Technology (B.Sc. IT)**
+  - Changu Kana Thakur ACS College, University of Mumbai (2022 – 2025)
+  - Cumulative CGPA: **8.57 / 10** | Final Year SGPA: **9.70 / 10**
+- **XII (Science - PCMB)**
+  - Changu Kana Thakur Jr. College, Maharashtra State Board (2022)
+- **Technical Certifications:**
+  - Basics of Information Technology
+  - Personality Development and Interview Skills
+  - Advance Technology – Introduction to Kotlin Programming
+  - Advance Core Java
+  - Cloud Computing
+
+---
+
+## 📊 GitHub Metrics
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=venoumsk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="venoumsk's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venoumsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=venoumsk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="venoumsk's GitHub Stats" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venoumsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 📬 Connect & Collaborate
+## 📬 Connect
 
-- **Live Portfolio:** [venoumsk.github.io/portfolio](https://venoumsk.github.io/portfolio/)
-- **Direct Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
-- **Direct Contracts:** Open for direct B2B data automation and application development contracts.
+- **Portfolio:** [https://venoumsk.github.io/portfolio/](https://venoumsk.github.io/portfolio/)
+- **Email:** [disaleaniruddha@gmail.com](mailto:disaleaniruddha@gmail.com)
+- **GitHub:** [https://github.com/venoumsk](https://github.com/venoumsk)
+- **Location:** Navi Mumbai, Maharashtra, India
