@@ -3,7 +3,7 @@
 # Aniruddha Disale
 
 ### Spatial Data Analyst Apprentice @ HERE Technologies
-**Software Developer · Computer Vision, High-Throughput Data Systems & Full-Stack Development**
+**Software Developer · Spatial Data Systems, Computer Vision & High-Throughput Automation**
 
 [![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-venoumsk.github.io%2Fportfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venoumsk.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
@@ -11,35 +11,37 @@
 [![Degree](https://img.shields.io/badge/B.Sc.%20IT%20'25-CGPA%208.57%20%7C%20SGPA%209.70-10b981?style=for-the-badge)](https://venoumsk.github.io/portfolio/)
 
 <p align="center">
-  <em>Apprentice Trainee in Spatial Data Analysis at HERE Technologies. Building production data engines, computer vision perception models, and responsive web applications.</em>
+  <em>Apprentice Trainee in Spatial Data Analysis at HERE Technologies. Engineering high-throughput data processing tools, computer vision perception models, and full-stack software.</em>
 </p>
 
 ---
 
 </div>
 
-## 📌 About & Professional Focus
+## 📌 Professional Overview & Core Focus
 
 I am a Software Developer and Spatial Data Analyst Apprentice at **HERE Technologies**, holding a Bachelor of Science in Information Technology from Changu Kana Thakur ACS College (University of Mumbai) with a cumulative CGPA of 8.57 and a final year SGPA of 9.70.
 
-- **Geospatial & Spatial Data Operations:** Performing spatial attribute verification, network topology validation, and quality assurance across global digital map database partitions at HERE Technologies.
-- **High-Throughput Data Processing:** Architecting memory-safe Python pipelines utilizing Polars (Rust/C Arrow engine) and Pandas chunking to process and mathematically reconcile datasets with millions of records without memory bottlenecks.
-- **Computer Vision & Deep Learning:** Developing multi-model neural vision suites (YOLO11, YOLOv8, PyTorch, OpenCV) for real-time autonomous driving perception and marine species classification.
-- **Client-Side Web & Mobile Engineering:** Building zero-server-upload vector document manipulation tools (React, TypeScript, Canvas API, pdf-lib) and mobile applications (Android Studio, Flutter).
+- **Spatial Data Verification & Map QA:** Validating spatial features, road network topologies, lane geometry, and Point of Interest (POI) lifecycles across multi-region digital map partitions at HERE Technologies.
+- **High-Throughput Data Engineering & ETL:** Building streaming data processing tools with Polars (Rust/C Arrow engine), Pandas chunking, and NVIDIA GPU acceleration (CuPy / CUDA) to process and reconcile multi-million record datasets with zero memory leaks.
+- **Computer Vision & Deep Learning:** Architecting multi-model neural vision suites (YOLO11, YOLOv8, PyTorch, OpenCV) for autonomous driving perception (lanes, construction hazard scoring, traffic signals) and marine species classification.
+- **Client-Side Web & Mobile Architecture:** Developing private, zero-server-upload vector document manipulation studios (React, TypeScript, Canvas API, pdf-lib) and native/cross-platform mobile apps (Android Studio, Flutter).
 
 ---
 
-## 🚀 Key Projects & Systems
+## 🚀 Current Engineering Projects & Systems
 
-| Project | Description | Core Stack | Repository |
+| Project | Description | Core Stack | Status / Code |
 | :--- | :--- | :--- | :--- |
-| **CadenceX** | High-performance reporting suite automating spatial cadence operations across 8 global map databases. Ingests, normalizes, and reconciles 1,053,805 records in ~74 seconds with peak memory under 2.8 GB. Enforces mathematical row parity and generates 9-sheet executive audit workbooks. | `Python` `Polars` `CustomTkinter` `XlsxWriter` | [Code / Docs →](https://github.com/venoumsk) |
-| **[YOLO11 Autonomous Perception](https://github.com/venoumsk)** | Offline deep learning computer vision suite deploying 3 neural models: (1) Road Lanes & Paint Markings, (2) Construction Zone Hazard Scoring, and (3) Active Traffic Signals locator. Trained on 1,000+ labeled frames with PyTorch and OpenCV. | `PyTorch` `YOLO11` `OpenCV` `Python` | [Repo →](https://github.com/venoumsk) |
-| **[DataFlow Pipeline](https://github.com/venoumsk/data-automation-demo)** | High-throughput Python ETL pipeline ingesting complex dump files, standardizing broken schemas, and repairing date/ID anomalies. Processed over 2.8+ Million records with memory-efficient chunking—surpassing Excel's 1.04M row ceiling—with zero data loss. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
+| **CadenceX** | Enterprise Cadence Reporting & Spatial Data Processing Tool. Ingests, normalizes, and reconciles 1,053,805 records across 8 global enterprise databases in ~74 seconds with peak memory under 2.8 GB. Enforces mathematical row parity and outputs 9-sheet executive audit workbooks. | `Python` `Polars` `CustomTkinter` `XlsxWriter` | Active System |
+| **Sorty (Shev Puri 2.0)** | High-performance automotive/spatial dataset partitioning and formatting engine. Leverages Polars and NVIDIA GPU acceleration (CuPy / GeForce RTX 3050) for dynamic column transforms, L15 partition derivation, and native numeric Excel output with zero coordinate precision loss. | `Python` `Polars` `CuPy / GPU` `CustomTkinter` | Active System |
+| **YOLO11 Autonomous Driving Suite** | Offline deep learning computer vision perception suite deploying 3 neural models: (1) Road Lanes & Paint Markings, (2) Construction Zone Hazard Scoring, and (3) Active Traffic Signals locator. Trained on 1,000+ labeled frames with automated batch runners and geospatial telemetry mapping. | `PyTorch` `YOLO11` `OpenCV` `Python` | [Repo →](https://github.com/venoumsk) |
+| **AI Traffic Diagnostics Agent** | Automated traffic signal quality and split failure evaluation agent. Evaluates queue spillback (RC-101), split failure / saturation (RC-102), LOS F delay (RC-103), and green time underutilization against knowledge base rules with scenario comparison. | `Python` `JSON Knowledge Base` `Analytics` | Active System |
+| **[DataFlow Pipeline](https://github.com/venoumsk/data-automation-demo)** | High-throughput Python ETL pipeline ingesting complex dump files, standardizing broken schemas, and repairing date/ID anomalies. Processed over 2.8+ Million records with memory-efficient chunking—surpassing Microsoft Excel's 1.04M row ceiling—with zero data loss. | `Python` `Pandas` `OpenPyXL` | [Repo →](https://github.com/venoumsk/data-automation-demo) |
 | **[PaperForge](https://github.com/venoumsk/paperforge)** | 100% in-browser document editor built with React, TypeScript, and Canvas API with zero server uploads. Features vector text annotations, geometric shapes, page deletion, reordering, rotation, and sub-150ms client PDF compilation. | `React` `TypeScript` `Vite` `Canvas API` `pdf-lib` | [Repo →](https://github.com/venoumsk/paperforge) |
 | **[CelerPay](https://github.com/venoumsk/celerpay)** | PhonePe-inspired UPI payment application built with Flutter and Provider for state management. Features modular clean architecture, balance updates, transaction history, and QR/profile flows. | `Flutter` `Dart` `Provider` | [Repo →](https://github.com/venoumsk/celerpay) |
 | **[FarmTech Guru](https://github.com/venoumsk/FarmTech_Guru)** | Android-based farmer assistant application. Integrated real-time weather forecasting, crop diagnostics, fertilizer dosage calculation, and role-based access using Firebase with offline-first local cache synchronization. | `Android Studio` `Java` `Firebase Firestore` | [Repo →](https://github.com/venoumsk/FarmTech_Guru) |
-| **Marine Life Detection** | Functional object detection model utilizing YOLOv8 and PyTorch for detecting and classifying marine species. Automated dataset preparation via Kaggle API, achieving detection accuracy of up to 94% on key classes. | `YOLOv8` `PyTorch` `OpenCV` `Kaggle API` | [Repo →](https://github.com/venoumsk) |
+| **Marine Life Object Detection** | Object detection model utilizing YOLOv8 and PyTorch for detecting and classifying marine species. Automated dataset preparation via Kaggle API, achieving detection accuracy of up to 94% on key classes. | `YOLOv8` `PyTorch` `OpenCV` `Kaggle API` | [Repo →](https://github.com/venoumsk) |
 | **[D-Invoice](https://github.com/venoumsk/D-invoice)** | Client-side GST invoice generator for small businesses. Features multi-item automatic tax calculation, subtotaling, and instant printable PDF export with zero server dependencies. | `JavaScript` `HTML5` `CSS3` | [Live Site →](https://dinvoice.netlify.app/) |
 
 ---
@@ -62,6 +64,7 @@ I am a Software Developer and Spatial Data Analyst Apprentice at **HERE Technolo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA / GPU](https://img.shields.io/badge/CUDA%20%2F%20CuPy-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS%20%26%20Spatial%20Data-2E7D32?style=for-the-badge&logoColor=white)
 
 ### Web & Mobile Development
